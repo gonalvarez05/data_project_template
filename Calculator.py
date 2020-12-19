@@ -50,7 +50,7 @@ def compute(operation, *args):
         return float(res)
     
     # Multiplication
-    if len(args) > 1 and operation == "mult":
+    if len(args) > 1 and operation == "mul":
         res = np.prod(args)
         print(res)
         return float(res)
