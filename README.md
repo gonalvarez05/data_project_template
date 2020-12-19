@@ -1,4 +1,4 @@
-# data_project_template
+ # data_project_template
 Bootcamp data project template
 
 # Data Project README file
@@ -28,7 +28,7 @@ Bearing that in mind, your job is to:
 4. Add some code
 5. Update readme
 6. Fix the code
-7. Have fun
+7. Have fun :+1: :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  :+1:  
 
 
 ## **Formatting**
