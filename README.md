@@ -28,7 +28,7 @@ Bearing that in mind, your job is to:
 4. Add some code
 5. Update readme
 6. Fix the code
-
+7. Have fun
 
 
 ## **Formatting**
